@@ -15,7 +15,7 @@ This project analyzes a Telco Customer Churn dataset to identify the key factors
 - Long-term customers are less likely to leave.
 
 ## Dashboard
-[Power BI Dashboard Link]
+[📊Power BI Dashboard Link](https://app.powerbi.com/links/YBi7z3VsVZ?ctid=16a0d960-ee74-4f56-a22a-19ae057918b2&pbi_source=linkShare) 
 
 ## Files
 - churn_analysis.py
