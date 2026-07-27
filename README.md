@@ -3,11 +3,28 @@
 ## Overview
 This project analyzes a Telco Customer Churn dataset to identify the key factors that influence customer churn and uncover patterns that can help improve customer retention. The project explores customer demographics, service usage, and account characteristics to generate actionable business insights.
 
-## Tools Used
+## Objectives 🎯
+
+- Analyze customer demographics and account information.
+- Identify factors that influence customer churn.
+- Discover relationships between customer services and churn.
+- Build an interactive dashboard for business decision-making.
+- Generate actionable insights to help reduce churn
+
+## Tools Used 🛠️
 - Python
 - Pandas
 - NumPy
 - Power BI
+
+## Data Cleaning
+
+The following preprocessing steps were performed:
+
+- Removed missing and duplicate values
+- Converted data types
+- Cleaned the **Total Charges** column
+- Prepared the dataset for analysis and visualization
 
 ## Key Insights 🔍
 - Telco month-to-month contracts customers have the highest churn. This is because  the customers on month-to-month contracts are not locked into a one- or two      year agreement. So, if they find a better price, experience poor service, or become dissatisfied, they can cancel at the end of the month because they’ve not      developed a strong loyalty for the company.
@@ -20,6 +37,15 @@ This project analyzes a Telco Customer Churn dataset to identify the key factors
 
 ## Dashboard
 [📊Power BI Dashboard Link](https://app.powerbi.com/links/YBi7z3VsVZ?ctid=16a0d960-ee74-4f56-a22a-19ae057918b2&pbi_source=linkShare) 
+The Power BI dashboard includes interactive visualizations such as:
+- Overall Churn Rate
+- Customer Demographics
+- Churn by Contract Type
+- Churn by Internet Service
+- Monthly Charges Analysis
+- Tenure Distribution
+- Payment Method Analysis
+- Customer Segmentation
 
 ## Recommendations💡
 
