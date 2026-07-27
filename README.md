@@ -1,7 +1,7 @@
 # Telco Customer Churn Analysis
 
 ## Overview
-This project analyzes customer churn data to identify key factors influencing customer retention.
+This project analyzes a Telco Customer Churn dataset to identify the key factors that influence customer churn and uncover patterns that can help improve customer retention. The project explores customer demographics, service usage, and account characteristics to generate actionable business insights.
 
 ## Tools Used
 - Python
