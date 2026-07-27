@@ -56,7 +56,7 @@ The Power BI dashboard includes interactive visualizations such as:
 - Offer free trials of these services to new customers
 
 ![image](https://github.com/Mickpaul/Telco_Customer_Churn_Dashboard.png)
-
+Telco_Customer_Churn_Dashboard.png
 
 ## Files
 - churn_analysis.py
@@ -64,9 +64,6 @@ The Power BI dashboard includes interactive visualizations such as:
 - dataset.csv
 
 
-
-
-This project analyzes a Telco Customer Churn dataset to identify the key factors that influence customer churn and uncover patterns that can help improve customer retention. Using Python with Pandas for data processing and analysis (and typically using Power BI for visualization), the project explores customer demographics, service usage, and account characteristics to generate actionable business insights
 
 ## 👤 Author
 
