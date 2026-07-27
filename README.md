@@ -9,7 +9,7 @@ This project analyzes a Telco Customer Churn dataset to identify the key factors
 - NumPy
 - Power BI
 
-## Key Insights🔍
+## Key Insights 🔍
 - Telco month-to-month contracts customers have the highest churn. This is because  the customers on month-to-month contracts are not locked into a one- or two      year agreement. So, if they find a better price, experience poor service, or become dissatisfied, they can cancel at the end of the month because they’ve not      developed a strong loyalty for the company.
 - customers that make use of the electronic check usually have the highest churn, this is likely because many of these customers are also on month-to-month          contracts and have shorter tenures, making them more likely to switch providers.
 - Telco also experiences a large number of churn customers as a result of lack of Tech support, online backup and online security services. These services are       value-added services. Customers without these services typically have a simpler relationship with the company, making it easier for them to leave when they        encounter service issues, price increases, or competitive offers
@@ -29,7 +29,7 @@ This project analyzes a Telco Customer Churn dataset to identify the key factors
 - Create a Bundle Tech Support, Online Backup, and Online Security into promotional packages.
 - Offer free trials of these services to new customers
 
-
+![image](https://github.com/user-attachments/assets/b2450f01-f074-4e75-a70e-275de9d03bd4)
 
 ## Files
 - churn_analysis.py
