@@ -29,7 +29,8 @@ This project analyzes a Telco Customer Churn dataset to identify the key factors
 - Create a Bundle Tech Support, Online Backup, and Online Security into promotional packages.
 - Offer free trials of these services to new customers
 
-![image](https://github.com/user-attachments/assets/b2450f01-f074-4e75-a70e-275de9d03bd4)
+![image](https://github.com/Mickpaul/Telco_Customer_Churn_Analysis/Telco Customer Churn Dashboard.png)
+
 
 ## Files
 - churn_analysis.py
