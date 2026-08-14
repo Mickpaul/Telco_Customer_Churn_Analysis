@@ -48,7 +48,7 @@ The Power BI dashboard includes interactive visualizations such as:
 - Customer Segmentation
 
 ![image](https://github.com/Mickpaul/Telco_Customer_Churn_Analysis/blob/main/Telco_Customer_Churn_Dashboard.jpg)
-Telco_Customer_Churn_Dashboard.png
+
 ## Recommendations💡
 
 - Encourage month-to-month customers to move to one- or two-year contracts by offering discounts or incentives.
@@ -57,8 +57,8 @@ Telco_Customer_Churn_Dashboard.png
 - Create a Bundle Tech Support, Online Backup, and Online Security into promotional packages.
 - Offer free trials of these services to new customers
 
-![image](https://github.com/Mickpaul/Telco_Customer_Churn_Analysis/blob/main/Telco_Customer_Churn_Dashboard.jpg)
-Telco_Customer_Churn_Dashboard.png
+![image](https://github.com/Mickpaul/Telco_Customer_Churn_Analysis/blob/main/Telco_Customer_Churn_Customer_insight.jpg)
+
 
 ## Files
 - churn_analysis.py
